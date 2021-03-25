@@ -1,8 +1,28 @@
-## Battery Modeling Challenge
+# Battery Modeling Challenge
+
+## Goals of the Challenge
+
+- Please understand that this challenge is not decisive for your application at Circunomics. This is just an opportunity for you both to work together and get to know each other in a technical way.
+
+- We have already put you in contact, you have the email of your challenge partner. You are free to decide how you are going to work and collaborate.
+
+- Remember, you have to work as team wrestling with a real life problem.
+
+- You are a multidisciplinary team, so try to support each other in your weakness. 
+
+- The point is to understand how you both working together combine your battery knowledge and data science approach to complete the tasks.
+ 
+- We understand you are full time employed and in this challenge you have to interact with your partner, talk over, discuss things etc.. so please finish this challenge within 7 days and give us a good estimation of how long it took you.
+ 
+Have fun!
+
+## Dataset
 
 A set of four Li-ion batteries were run through 3 different operational profiles (charge, discharge and impedance) at room temperature. [Dataset](https://circunomicsgmbh.sharepoint.com/:f:/s/Circunomics/Ei42j9N94xNLjYJKFY1c7AcBBmWx_SsQKK1Ek-ASvJ00Lw?e=tFBgOU)
 
-Charging was carried out in a constant current (CC) mode at 1.5A until the battery voltage reached 4.2V and then continued in a constant voltage (CV) mode until the charge current dropped to 20mA. Discharge was carried out at a constant current (CC) level of 2A until the battery voltage fell to 2.7V, 2.5V, 2.2V and 2.5V for batteries 5 6 7 and 18 respectively.
+Charging was carried out in a constant current (CC) mode at 1.5A until the battery voltage reached 4.2V and then continued in a constant voltage (CV) mode until the charge current dropped to 20mA. 
+
+Discharge was carried out at a constant current (CC) level of 2A until the battery voltage fell to 2.7V, 2.5V, 2.2V and 2.5V for batteries 5 6 7 and 18 respectively.
 
 Impedance measurement was carried out through an electrochemical impedance spectroscopy (EIS) frequency sweep from 0.1Hz to 5kHz.
 
@@ -25,21 +45,10 @@ The experiments were stopped when the batteries reached end-of-life (EOL) criter
 
 ## How to submit the Challenge
 
-- The time allowed for completing this coding assignment is 7 days.
-- We understand you are working, and you have to interact, discuss etc.. so please let us know how long it took you.
-
 - Only the final Jupyter notebook has to be submitted, and no formal project report is required.
 
 - Comments or clarifications can be provided in the notebook.
 
 - Please push you Jupyter notebook to a bitbucket private repository and grant access to the user jobs@circunomics.com.
 
-## Thinks to keep in mind:
-
-Please understand that this challenge is not decisive if you are applying to work at Circunomics.
-
-This is just an opportunity for you both to work together and get to know each other in a more technical way.
-
-The point is to understand how you both working as a team combine your battery knowledge and data science approach to complete the tasks.
-
-Have fun!
+- We don't care from which account the notebook was pushed to the repo.
