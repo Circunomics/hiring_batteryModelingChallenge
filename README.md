@@ -2,7 +2,7 @@
 
 ## Goals of the Challenge
 
-- Please understand that this challenge is not decisive for your application at Circunomics. This is just an opportunity for you both to work together and get to know each other in a technical way.
+- This challenge is not decisive for your application at Circunomics. This is just an opportunity for you both to work together and get to know each other in a technical way.
 
 - We have already put you in contact, you have the email of your challenge partner. You are free to decide how you are going to work and collaborate.
 
@@ -10,10 +10,10 @@
 
 - You are a multidisciplinary team, so try to support each other in your weakness. 
 
-- The point is to understand how you both working together combine your battery knowledge and data science approach to complete the tasks.
+- The point is to understand how you combine your battery knowledge and data science approach to complete and solve this challenge.
  
-- We understand you are full time employed and in this challenge you have to interact with your partner, talk over, discuss things etc.. so please finish this challenge within 7 days and give us a good estimation of how long it took you.
- 
+- We understand you are full time employed and this challenge is time demanding, in addition, you have to interact with your partner, talk over, discuss things etc.. so please, take your time but considere that the challenge should be finished within 7 days. 
+  
 Have fun!
 
 ## Dataset
@@ -49,6 +49,6 @@ The experiments were stopped when the batteries reached end-of-life (EOL) criter
 
 - Comments or clarifications can be provided in the notebook.
 
-- Please push you Jupyter notebook to a bitbucket private repository and grant access to the user jobs@circunomics.com.
+- Please push your Jupyter notebook to a bitbucket private repository and grant access to the user jobs@circunomics.com.
 
 - We don't care from which account the notebook was pushed to the repo.
