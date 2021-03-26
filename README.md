@@ -1,18 +1,18 @@
 # Battery Modeling Challenge
 
-## Goals of the Challenge
+## Remarks and Goals of the Challenge
 
-- This challenge is not decisive for your application at Circunomics. This is just an opportunity for you both to work together and get to know each other in a technical way.
+- This challenge is not decisive for your application at Circunomics. This is just an opportunity for you both to work together and get to know each other in a technical context.
 
-- We have already put you in contact, you have the email of your challenge partner. You are free to decide how you are going to work and collaborate.
+- The goal is to understand how you combine your battery knowledge and data science approach to complete and solve this challenge.
+  
+- The input is a dataset and the challenge's taks. The output is your joint solution.
 
-- Remember, you have to work as team wrestling with a real life problem.
+- You are a multidisciplinary team wrestling with a complex problem, so support each other in your weakness.
 
-- You are a multidisciplinary team, so try to support each other in your weakness. 
+- We have already put you in contact, you have the email of your challenge partner. From now on, you decide how you are going to work and collaborate.
 
-- The point is to understand how you combine your battery knowledge and data science approach to complete and solve this challenge.
- 
-- We understand you are full time employed and this challenge is time demanding, in addition, you have to interact with your partner, talk over, discuss things etc.. so please, take your time but considere that the challenge should be finished within 7 days. 
+- We understand you are full time employed and this challenge is time demanding, in addition, you have to interact with your partner, talk over, discuss ideas etc.. so please, take your time but considere that the challenge should be finished within 7 days from the day you got the challenge.
   
 - If you have any issue or question during the challenge, please contact us.
 
