@@ -20,11 +20,11 @@ Have fun!
 
 ## Dataset
 
-A set of four Li-ion batteries were run through 3 different operational profiles (charge, discharge and impedance) at room temperature. [Dataset](https://circunomicsgmbh.sharepoint.com/:f:/s/Circunomics/Ei42j9N94xNLjYJKFY1c7AcBBmWx_SsQKK1Ek-ASvJ00Lw?e=tFBgOU)
+A set of Li-ion batteries were run through 3 different operational profiles (charge, discharge and impedance) at room temperature. 
 
 Charging was carried out in a constant current (CC) mode at 1.5A until the battery voltage reached 4.2V and then continued in a constant voltage (CV) mode until the charge current dropped to 20mA. 
 
-Discharge was carried out at a constant current (CC) level of 2A until the battery voltage fell to 2.7V, 2.5V, 2.2V and 2.5V for batteries 5 6 7 and 18 respectively.
+Discharge was carried out at a constant current (CC) level of 2A until the battery voltage fell to 2.7V, 2.5V, 2.2V and 2.5V.
 
 Impedance measurement was carried out through an electrochemical impedance spectroscopy (EIS) frequency sweep from 0.1Hz to 5kHz.
 
@@ -34,8 +34,10 @@ The experiments were stopped when the batteries reached end-of-life (EOL) criter
 
 ## Tasks
 
+Please, download the [dataset](https://circunomicsgmbh.sharepoint.com/:f:/s/Circunomics/Ei42j9N94xNLjYJKFY1c7AcBBmWx_SsQKK1Ek-ASvJ00Lw?e=tFBgOU), analyze it and complete the following taks:
+
 ### Visualization
-- How do Re and Rct change over cycling under the different conditions? Are they correlated?
+- Describe how Re and Rct change over cycling under the different conditions. Please describe if you find any correlation.
 - Use bokeh to create an interactive visualization for searching through the large amounts of data or enable the comparison between cells.
 
 ### Tool building
@@ -49,7 +51,7 @@ The experiments were stopped when the batteries reached end-of-life (EOL) criter
 
 - Only the final Jupyter notebook has to be submitted, and no formal project report is required.
 
-- Comments or clarifications can be provided in the notebook.
+- Answers to the questions, comments or clarifications to the approach shall be provided in the notebook.
 
 - Please push your Jupyter notebook to a bitbucket private repository and grant access to the user jobs@circunomics.com.
 
