@@ -14,6 +14,8 @@
  
 - We understand you are full time employed and this challenge is time demanding, in addition, you have to interact with your partner, talk over, discuss things etc.. so please, take your time but considere that the challenge should be finished within 7 days. 
   
+- If you have any issue or question during the challenge, please contact us.
+
 Have fun!
 
 ## Dataset
